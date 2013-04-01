@@ -299,6 +299,7 @@
 				14FEBC3F1709E77500EB34EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
